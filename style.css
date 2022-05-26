@@ -1,0 +1,27 @@
+body {
+	background-color: rgb(12, 9, 26);
+	color: #514fb3;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.game-container {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+p {
+	font-size: xx-large;
+	font-weight: 600;
+	color: white;
+}
+
+button {
+	padding: 16px 24px;
+	border: none;
+	background-color: #514fb3;
+	color: white;
+}
